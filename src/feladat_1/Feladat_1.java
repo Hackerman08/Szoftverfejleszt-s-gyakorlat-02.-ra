@@ -12,6 +12,7 @@ public class Feladat_1 {
         
         
         
+        
         System.out.println("Kérem adja meg a medence átmérőjét: ");
        
         
