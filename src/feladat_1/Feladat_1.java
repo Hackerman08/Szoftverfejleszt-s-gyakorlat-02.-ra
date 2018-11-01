@@ -11,6 +11,7 @@ public class Feladat_1 {
         int mélység;
         double térfogat;
         int sugár;
+        //komit ellernörés
         
         Scanner input = new Scanner(System.in);
         
